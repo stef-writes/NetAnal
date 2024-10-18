@@ -1,0 +1,7 @@
+# Ignore data files
+data/
+report_data/
+
+# Ignore environment files
+.env
+env/
